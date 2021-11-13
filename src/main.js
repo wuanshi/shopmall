@@ -5,6 +5,7 @@ import store from './store'
 import Toast from 'components/common/toast'
 
 Vue.config.productionTip = false;
+
 // 事件总线 跨组件之间进行通信
 Vue.prototype.$bus = new Vue();
 

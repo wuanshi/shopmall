@@ -201,7 +201,7 @@ export default {
         //   this.message = ''
         // },1500)
         // console.log(res)
-        this.$toast.show(res,1500);
+        this.$toast.show(res,2000);
         // console.log(this.$toast);
         })
       // this.$store.dispatch('addCart',product).then(res => console.log(res))
