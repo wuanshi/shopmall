@@ -24,7 +24,8 @@ export default {
     transform: translate(-50%,-50%);
   }
   .message {
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, .2);
     color: #fff;
+    border-radius: 5%;
   }
 </style>
