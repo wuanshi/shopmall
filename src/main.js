@@ -10,7 +10,7 @@ Vue.config.productionTip = false;
 Vue.prototype.$bus = new Vue();
 
 Vue.use(Toast);
-
+// test
 new Vue({
   router,
   store,
